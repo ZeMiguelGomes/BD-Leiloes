@@ -1,4 +1,4 @@
-# BD-Leiloes
+# BD-Leilões
 Trabalho realizado no âmbito da disciplina de Base de Dados no 2º Semestre de 2021 juntamente com os meus colegas Pedro Tiago e Diogo Filipe
 
 Tecnologias utilizadas:
